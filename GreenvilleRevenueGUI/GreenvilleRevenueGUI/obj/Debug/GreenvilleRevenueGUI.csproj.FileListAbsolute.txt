@@ -1,0 +1,9 @@
+C:\Users\rc308750\AppData\Local\Temporary Projects\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.exe.config
+C:\Users\rc308750\AppData\Local\Temporary Projects\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.exe
+C:\Users\rc308750\AppData\Local\Temporary Projects\GreenvilleRevenueGUI\bin\Debug\GreenvilleRevenueGUI.pdb
+C:\Users\rc308750\AppData\Local\Temporary Projects\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.csprojResolveAssemblyReference.cache
+C:\Users\rc308750\AppData\Local\Temporary Projects\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.Form1.resources
+C:\Users\rc308750\AppData\Local\Temporary Projects\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.Properties.Resources.resources
+C:\Users\rc308750\AppData\Local\Temporary Projects\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.csproj.GenerateResource.Cache
+C:\Users\rc308750\AppData\Local\Temporary Projects\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.exe
+C:\Users\rc308750\AppData\Local\Temporary Projects\GreenvilleRevenueGUI\obj\Debug\GreenvilleRevenueGUI.pdb

@@ -1,0 +1,9 @@
+C:\Users\rc308750\AppData\Local\Temporary Projects\DailySpecial\bin\Debug\DailySpecial.exe.config
+C:\Users\rc308750\AppData\Local\Temporary Projects\DailySpecial\bin\Debug\DailySpecial.exe
+C:\Users\rc308750\AppData\Local\Temporary Projects\DailySpecial\bin\Debug\DailySpecial.pdb
+C:\Users\rc308750\AppData\Local\Temporary Projects\DailySpecial\obj\Debug\DailySpecial.csprojResolveAssemblyReference.cache
+C:\Users\rc308750\AppData\Local\Temporary Projects\DailySpecial\obj\Debug\DailySpecial.Form1.resources
+C:\Users\rc308750\AppData\Local\Temporary Projects\DailySpecial\obj\Debug\DailySpecial.Properties.Resources.resources
+C:\Users\rc308750\AppData\Local\Temporary Projects\DailySpecial\obj\Debug\DailySpecial.csproj.GenerateResource.Cache
+C:\Users\rc308750\AppData\Local\Temporary Projects\DailySpecial\obj\Debug\DailySpecial.exe
+C:\Users\rc308750\AppData\Local\Temporary Projects\DailySpecial\obj\Debug\DailySpecial.pdb
