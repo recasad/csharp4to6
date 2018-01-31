@@ -1,0 +1,9 @@
+C:\Users\rc308750\AppData\Local\Temporary Projects\InsultGuessingGame\bin\Debug\InsultGuessingGame.exe.config
+C:\Users\rc308750\AppData\Local\Temporary Projects\InsultGuessingGame\bin\Debug\InsultGuessingGame.exe
+C:\Users\rc308750\AppData\Local\Temporary Projects\InsultGuessingGame\bin\Debug\InsultGuessingGame.pdb
+C:\Users\rc308750\AppData\Local\Temporary Projects\InsultGuessingGame\obj\Debug\InsultGuessingGame.csprojResolveAssemblyReference.cache
+C:\Users\rc308750\AppData\Local\Temporary Projects\InsultGuessingGame\obj\Debug\InsultGuessingGame.Form1.resources
+C:\Users\rc308750\AppData\Local\Temporary Projects\InsultGuessingGame\obj\Debug\InsultGuessingGame.Properties.Resources.resources
+C:\Users\rc308750\AppData\Local\Temporary Projects\InsultGuessingGame\obj\Debug\InsultGuessingGame.csproj.GenerateResource.Cache
+C:\Users\rc308750\AppData\Local\Temporary Projects\InsultGuessingGame\obj\Debug\InsultGuessingGame.exe
+C:\Users\rc308750\AppData\Local\Temporary Projects\InsultGuessingGame\obj\Debug\InsultGuessingGame.pdb

@@ -1,1 +1,2 @@
 C:\Users\rc308750\AppData\Local\Temporary Projects\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\Users\rc308750\Desktop\c#\csharp4to6\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
