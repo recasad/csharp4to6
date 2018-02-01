@@ -1,1 +1,14 @@
 C:\Users\rc308750\AppData\Local\Temporary Projects\NewtonsSecondLaw\bin\Debug\NewtonsSecondLaw.exe.config
+C:\Users\AlienKCR3\Desktop\BeccaVisualBasics\GitHub\csharp4to6\NewtonsSecondLaw\NewtonsSecondLaw\bin\Debug\NewtonsSecondLaw.exe.config
+C:\Users\AlienKCR3\Desktop\BeccaVisualBasics\GitHub\csharp4to6\NewtonsSecondLaw\NewtonsSecondLaw\bin\Debug\NewtonsSecondLaw.exe
+C:\Users\AlienKCR3\Desktop\BeccaVisualBasics\GitHub\csharp4to6\NewtonsSecondLaw\NewtonsSecondLaw\bin\Debug\NewtonsSecondLaw.pdb
+C:\Users\AlienKCR3\Desktop\BeccaVisualBasics\GitHub\csharp4to6\NewtonsSecondLaw\NewtonsSecondLaw\obj\Debug\NewtonsSecondLaw.csprojResolveAssemblyReference.cache
+C:\Users\AlienKCR3\Desktop\BeccaVisualBasics\GitHub\csharp4to6\NewtonsSecondLaw\NewtonsSecondLaw\obj\Debug\NewtonsSecondLaw.MainMenu.resources
+C:\Users\AlienKCR3\Desktop\BeccaVisualBasics\GitHub\csharp4to6\NewtonsSecondLaw\NewtonsSecondLaw\obj\Debug\NewtonsSecondLaw.Properties.Resources.resources
+C:\Users\AlienKCR3\Desktop\BeccaVisualBasics\GitHub\csharp4to6\NewtonsSecondLaw\NewtonsSecondLaw\obj\Debug\NewtonsSecondLaw.csproj.GenerateResource.Cache
+C:\Users\AlienKCR3\Desktop\BeccaVisualBasics\GitHub\csharp4to6\NewtonsSecondLaw\NewtonsSecondLaw\obj\Debug\NewtonsSecondLaw.csproj.CoreCompileInputs.cache
+C:\Users\AlienKCR3\Desktop\BeccaVisualBasics\GitHub\csharp4to6\NewtonsSecondLaw\NewtonsSecondLaw\obj\Debug\NewtonsSecondLaw.exe
+C:\Users\AlienKCR3\Desktop\BeccaVisualBasics\GitHub\csharp4to6\NewtonsSecondLaw\NewtonsSecondLaw\obj\Debug\NewtonsSecondLaw.pdb
+C:\Users\AlienKCR3\Desktop\BeccaVisualBasics\GitHub\csharp4to6\NewtonsSecondLaw\NewtonsSecondLaw\obj\Debug\NewtonsSecondLaw.MassCalculator.resources
+C:\Users\AlienKCR3\Desktop\BeccaVisualBasics\GitHub\csharp4to6\NewtonsSecondLaw\NewtonsSecondLaw\obj\Debug\NewtonsSecondLaw.ForceCalculator.resources
+C:\Users\AlienKCR3\Desktop\BeccaVisualBasics\GitHub\csharp4to6\NewtonsSecondLaw\NewtonsSecondLaw\obj\Debug\NewtonsSecondLaw.AccelerationCalculator.resources
