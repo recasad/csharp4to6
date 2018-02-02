@@ -7,3 +7,12 @@ C:\Users\rc308750\AppData\Local\Temporary Projects\Missituckychusets\obj\Debug\M
 C:\Users\rc308750\AppData\Local\Temporary Projects\Missituckychusets\obj\Debug\Missituckychusets.csproj.GenerateResource.Cache
 C:\Users\rc308750\AppData\Local\Temporary Projects\Missituckychusets\obj\Debug\Missituckychusets.exe
 C:\Users\rc308750\AppData\Local\Temporary Projects\Missituckychusets\obj\Debug\Missituckychusets.pdb
+C:\Users\rc308750\Desktop\c#\csharp4to6\Missituckychusets\Missituckychusets\bin\Debug\Missituckychusets.exe.config
+C:\Users\rc308750\Desktop\c#\csharp4to6\Missituckychusets\Missituckychusets\obj\Debug\Missituckychusets.exe
+C:\Users\rc308750\Desktop\c#\csharp4to6\Missituckychusets\Missituckychusets\obj\Debug\Missituckychusets.pdb
+C:\Users\rc308750\Desktop\c#\csharp4to6\Missituckychusets\Missituckychusets\bin\Debug\Missituckychusets.exe
+C:\Users\rc308750\Desktop\c#\csharp4to6\Missituckychusets\Missituckychusets\bin\Debug\Missituckychusets.pdb
+C:\Users\rc308750\Desktop\c#\csharp4to6\Missituckychusets\Missituckychusets\obj\Debug\Missituckychusets.csprojResolveAssemblyReference.cache
+C:\Users\rc308750\Desktop\c#\csharp4to6\Missituckychusets\Missituckychusets\obj\Debug\Missituckychusets.Form1.resources
+C:\Users\rc308750\Desktop\c#\csharp4to6\Missituckychusets\Missituckychusets\obj\Debug\Missituckychusets.Properties.Resources.resources
+C:\Users\rc308750\Desktop\c#\csharp4to6\Missituckychusets\Missituckychusets\obj\Debug\Missituckychusets.csproj.GenerateResource.Cache

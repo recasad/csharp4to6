@@ -41,6 +41,7 @@
             this.label8 = new System.Windows.Forms.Label();
             this.lblCanThreeDel = new System.Windows.Forms.Label();
             this.btnGo = new System.Windows.Forms.Button();
+            this.lblTest = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // txtCanOne
@@ -152,11 +153,20 @@
             this.btnGo.UseVisualStyleBackColor = true;
             this.btnGo.Click += new System.EventHandler(this.btnGo_Click);
             // 
+            // lblTest
+            // 
+            this.lblTest.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.lblTest.Location = new System.Drawing.Point(16, 210);
+            this.lblTest.Name = "lblTest";
+            this.lblTest.Size = new System.Drawing.Size(221, 20);
+            this.lblTest.TabIndex = 15;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(249, 210);
+            this.ClientSize = new System.Drawing.Size(249, 279);
+            this.Controls.Add(this.lblTest);
             this.Controls.Add(this.btnGo);
             this.Controls.Add(this.label8);
             this.Controls.Add(this.lblCanThreeDel);
@@ -192,6 +202,7 @@
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Label lblCanThreeDel;
         private System.Windows.Forms.Button btnGo;
+        private System.Windows.Forms.Label lblTest;
     }
 }
 

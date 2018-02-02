@@ -22,9 +22,9 @@ namespace Missituckychusets
             int intCanTwo;
             int intCanThree;
             int intDele;
-            double dblCanOneDel;
-            double dblCanTwoDel;
-            double dblCanThreeDel;
+            int intCanOneDel;
+            int intCanTwoDel;
+            int intCanThreeDel;
 
             intCanOne = Convert.ToInt32(txtCanOne.Text);
             intCanTwo = Convert.ToInt32(txtCanTwo.Text);
@@ -52,47 +52,49 @@ namespace Missituckychusets
                     lblCanThreeDel.Text = intDele.ToString();
                 }
             }
-            if (intCanOne < 15 || intCanTwo < 15 || intCanThree < 15)
+            else if (intCanOne < 15 || intCanTwo < 15 || intCanThree < 15)
             {
                 if(intCanOne < 15)
                 {
-                    intCanTwo = (intCanOne / 2)+intCanTwo;
-                    intCanThree = (intCanOne / 2)+intCanThree;
-                    dblCanTwoDel = (intDele * (intCanTwo/100));
-                    dblCanThreeDel = (intDele * (intCanThree/100));
+                    intCanTwo = (intCanOne / 2) + intCanTwo;
+                    intCanThree = (intCanOne / 2) + intCanThree;
+                    intCanTwoDel = (intCanTwo * intDele) / 100;
+                    intCanThreeDel = (intDele * intCanThree) / 100;
                     lblCanOneDel.Text = "0, non-viable";
-                    lblCanTwoDel.Text = dblCanTwoDel.ToString();
-                    lblCanThreeDel.Text = dblCanThreeDel.ToString();
+                    lblCanTwoDel.Text = intCanTwoDel.ToString();
+                    lblCanThreeDel.Text = intCanThreeDel.ToString();
+                    
                 }
                 else if(intCanTwo < 15)
                 {
                     intCanOne += (intCanTwo / 2);
                     intCanThree += (intCanTwo / 2);
-                    dblCanOneDel = (intDele * (intCanOne/100));
-                    dblCanThreeDel = (intDele * (intCanThree/100));
-                    lblCanOneDel.Text = dblCanOneDel.ToString();
+                    intCanOneDel = (intDele * intCanOne) / 100;
+                    intCanThreeDel = (intDele * intCanThree) / 100;
+                    lblCanOneDel.Text = intCanOneDel.ToString();
                     lblCanTwoDel.Text = "0, non-viable";
-                    lblCanThreeDel.Text = dblCanThreeDel.ToString();
+                    lblCanThreeDel.Text = intCanThreeDel.ToString();
+                   
                 }
                 else
                 {
                     intCanOne += (intCanThree / 2);
                     intCanTwo += (intCanThree / 2);
-                    dblCanOneDel = (intDele * (intCanOne/100));
-                    dblCanTwoDel = (intDele * (intCanTwo / 100));
-                    lblCanOneDel.Text = dblCanOneDel.ToString();
-                    lblCanTwoDel.Text = dblCanTwoDel.ToString();
+                    intCanOneDel = (intDele * intCanOne) / 100;
+                    intCanTwoDel = (intDele * intCanTwo) / 100;
+                    lblCanOneDel.Text = intCanOneDel.ToString();
+                    lblCanTwoDel.Text = intCanTwoDel.ToString();
                     lblCanThreeDel.Text = "0, non-viable";
                 }
             }
             else
             {
-                dblCanOneDel = (intDele * (intCanOne / 100));
-                dblCanTwoDel = (intDele * (intCanTwo / 100));
-                dblCanThreeDel = (intDele * (intCanThree / 100));
-                lblCanOneDel.Text = dblCanOneDel.ToString();
-                lblCanTwoDel.Text = dblCanTwoDel.ToString();
-                lblCanThreeDel.Text = dblCanThreeDel.ToString();
+                intCanOneDel = (intDele * intCanOne) / 100;
+                intCanTwoDel = (intDele * intCanTwo) / 100;
+                intCanThreeDel = (intDele * intCanThree) / 100;
+                lblCanOneDel.Text = intCanOneDel.ToString();
+                lblCanTwoDel.Text = intCanTwoDel.ToString();
+                lblCanThreeDel.Text = intCanThreeDel.ToString();
             }
         }
     }
