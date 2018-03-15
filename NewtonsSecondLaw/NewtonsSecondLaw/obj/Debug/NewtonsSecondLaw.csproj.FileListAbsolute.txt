@@ -12,3 +12,6 @@ C:\Users\AlienKCR3\Desktop\BeccaVisualBasics\GitHub\csharp4to6\NewtonsSecondLaw\
 C:\Users\AlienKCR3\Desktop\BeccaVisualBasics\GitHub\csharp4to6\NewtonsSecondLaw\NewtonsSecondLaw\obj\Debug\NewtonsSecondLaw.MassCalculator.resources
 C:\Users\AlienKCR3\Desktop\BeccaVisualBasics\GitHub\csharp4to6\NewtonsSecondLaw\NewtonsSecondLaw\obj\Debug\NewtonsSecondLaw.ForceCalculator.resources
 C:\Users\AlienKCR3\Desktop\BeccaVisualBasics\GitHub\csharp4to6\NewtonsSecondLaw\NewtonsSecondLaw\obj\Debug\NewtonsSecondLaw.AccelerationCalculator.resources
+C:\Users\AlienKCR3\Desktop\BeccaVisualBasics\GitHub\csharp4to6\NewtonsSecondLaw\NewtonsSecondLaw\obj\Debug\NewtonsSecondLaw.WhatIsNewtons.resources
+C:\Users\AlienKCR3\Desktop\BeccaVisualBasics\GitHub\csharp4to6\NewtonsSecondLaw\NewtonsSecondLaw\obj\Debug\NewtonsSecondLaw.Graphing.resources
+C:\Users\AlienKCR3\Desktop\BeccaVisualBasics\GitHub\csharp4to6\NewtonsSecondLaw\NewtonsSecondLaw\obj\Debug\NewtonsSecondLaw.RealLife.resources

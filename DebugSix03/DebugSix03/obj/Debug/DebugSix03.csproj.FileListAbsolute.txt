@@ -1,0 +1,7 @@
+C:\Users\AlienKCR3\AppData\Local\Temporary Projects\DebugSix03\bin\Debug\DebugSix03.exe.config
+C:\Users\AlienKCR3\AppData\Local\Temporary Projects\DebugSix03\bin\Debug\DebugSix03.exe
+C:\Users\AlienKCR3\AppData\Local\Temporary Projects\DebugSix03\bin\Debug\DebugSix03.pdb
+C:\Users\AlienKCR3\AppData\Local\Temporary Projects\DebugSix03\obj\Debug\DebugSix03.csprojResolveAssemblyReference.cache
+C:\Users\AlienKCR3\AppData\Local\Temporary Projects\DebugSix03\obj\Debug\DebugSix03.csproj.CoreCompileInputs.cache
+C:\Users\AlienKCR3\AppData\Local\Temporary Projects\DebugSix03\obj\Debug\DebugSix03.exe
+C:\Users\AlienKCR3\AppData\Local\Temporary Projects\DebugSix03\obj\Debug\DebugSix03.pdb

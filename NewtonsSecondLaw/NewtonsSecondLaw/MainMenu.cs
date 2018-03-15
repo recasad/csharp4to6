@@ -34,5 +34,23 @@ namespace NewtonsSecondLaw
             AccelerationCalculator accelerationCalculator = new AccelerationCalculator();
             accelerationCalculator.Show();
         }
+
+        private void btnExplain_Click(object sender, EventArgs e)
+        {
+            WhatIsNewtons whatIsNewtons = new WhatIsNewtons();
+            whatIsNewtons.Show();
+        }
+
+        private void btnGraph_Click(object sender, EventArgs e)
+        {
+            Graphing graphing = new Graphing();
+            graphing.Show();
+        }
+
+        private void btnRealLife_Click(object sender, EventArgs e)
+        {
+            RealLife realLife = new RealLife();
+            realLife.Show();
+        }
     }
 }

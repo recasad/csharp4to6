@@ -1,0 +1,14 @@
+C:\Users\AlienKCR3\AppData\Local\Temporary Projects\ChapterSixDebuggingOne\obj\Debug\ChapterSixDebuggingOne.csprojResolveAssemblyReference.cache
+C:\Users\AlienKCR3\AppData\Local\Temporary Projects\ChapterSixDebuggingOne\obj\Debug\ChapterSixDebuggingOne.csproj.CoreCompileInputs.cache
+C:\Users\AlienKCR3\AppData\Local\Temporary Projects\ChapterSixDebuggingOne\bin\Debug\ChapterSixDebuggingOne.exe.config
+C:\Users\AlienKCR3\AppData\Local\Temporary Projects\ChapterSixDebuggingOne\bin\Debug\ChapterSixDebuggingOne.exe
+C:\Users\AlienKCR3\AppData\Local\Temporary Projects\ChapterSixDebuggingOne\bin\Debug\ChapterSixDebuggingOne.pdb
+C:\Users\AlienKCR3\AppData\Local\Temporary Projects\ChapterSixDebuggingOne\obj\Debug\ChapterSixDebuggingOne.exe
+C:\Users\AlienKCR3\AppData\Local\Temporary Projects\ChapterSixDebuggingOne\obj\Debug\ChapterSixDebuggingOne.pdb
+C:\Users\AlienKCR3\Desktop\BeccaVisualBasics\GitHub\csharp4to6\ChapterSixDebuggingOne\ChapterSixDebuggingOne\bin\Debug\ChapterSixDebuggingOne.exe.config
+C:\Users\AlienKCR3\Desktop\BeccaVisualBasics\GitHub\csharp4to6\ChapterSixDebuggingOne\ChapterSixDebuggingOne\bin\Debug\ChapterSixDebuggingOne.exe
+C:\Users\AlienKCR3\Desktop\BeccaVisualBasics\GitHub\csharp4to6\ChapterSixDebuggingOne\ChapterSixDebuggingOne\bin\Debug\ChapterSixDebuggingOne.pdb
+C:\Users\AlienKCR3\Desktop\BeccaVisualBasics\GitHub\csharp4to6\ChapterSixDebuggingOne\ChapterSixDebuggingOne\obj\Debug\ChapterSixDebuggingOne.csprojResolveAssemblyReference.cache
+C:\Users\AlienKCR3\Desktop\BeccaVisualBasics\GitHub\csharp4to6\ChapterSixDebuggingOne\ChapterSixDebuggingOne\obj\Debug\ChapterSixDebuggingOne.csproj.CoreCompileInputs.cache
+C:\Users\AlienKCR3\Desktop\BeccaVisualBasics\GitHub\csharp4to6\ChapterSixDebuggingOne\ChapterSixDebuggingOne\obj\Debug\ChapterSixDebuggingOne.exe
+C:\Users\AlienKCR3\Desktop\BeccaVisualBasics\GitHub\csharp4to6\ChapterSixDebuggingOne\ChapterSixDebuggingOne\obj\Debug\ChapterSixDebuggingOne.pdb

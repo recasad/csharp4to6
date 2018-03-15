@@ -1,0 +1,7 @@
+C:\Users\AlienKCR3\AppData\Local\Temporary Projects\SixArrays\bin\Debug\SixArrays.exe.config
+C:\Users\AlienKCR3\AppData\Local\Temporary Projects\SixArrays\bin\Debug\SixArrays.exe
+C:\Users\AlienKCR3\AppData\Local\Temporary Projects\SixArrays\bin\Debug\SixArrays.pdb
+C:\Users\AlienKCR3\AppData\Local\Temporary Projects\SixArrays\obj\Debug\SixArrays.csprojResolveAssemblyReference.cache
+C:\Users\AlienKCR3\AppData\Local\Temporary Projects\SixArrays\obj\Debug\SixArrays.csproj.CoreCompileInputs.cache
+C:\Users\AlienKCR3\AppData\Local\Temporary Projects\SixArrays\obj\Debug\SixArrays.exe
+C:\Users\AlienKCR3\AppData\Local\Temporary Projects\SixArrays\obj\Debug\SixArrays.pdb

@@ -1,0 +1,6 @@
+C:\Users\AlienKCR3\AppData\Local\Temporary Projects\ChapterSixDebuggingOne\bin\Release\ChapterSixDebuggingOne.exe.config
+C:\Users\AlienKCR3\AppData\Local\Temporary Projects\ChapterSixDebuggingOne\bin\Release\ChapterSixDebuggingOne.exe
+C:\Users\AlienKCR3\AppData\Local\Temporary Projects\ChapterSixDebuggingOne\bin\Release\ChapterSixDebuggingOne.pdb
+C:\Users\AlienKCR3\AppData\Local\Temporary Projects\ChapterSixDebuggingOne\obj\Release\ChapterSixDebuggingOne.csproj.CoreCompileInputs.cache
+C:\Users\AlienKCR3\AppData\Local\Temporary Projects\ChapterSixDebuggingOne\obj\Release\ChapterSixDebuggingOne.exe
+C:\Users\AlienKCR3\AppData\Local\Temporary Projects\ChapterSixDebuggingOne\obj\Release\ChapterSixDebuggingOne.pdb

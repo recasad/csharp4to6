@@ -1,0 +1,7 @@
+C:\Users\AlienKCR3\AppData\Local\Temporary Projects\DebuggingSix02\bin\Debug\DebuggingSix02.exe.config
+C:\Users\AlienKCR3\AppData\Local\Temporary Projects\DebuggingSix02\bin\Debug\DebuggingSix02.exe
+C:\Users\AlienKCR3\AppData\Local\Temporary Projects\DebuggingSix02\bin\Debug\DebuggingSix02.pdb
+C:\Users\AlienKCR3\AppData\Local\Temporary Projects\DebuggingSix02\obj\Debug\DebuggingSix02.csprojResolveAssemblyReference.cache
+C:\Users\AlienKCR3\AppData\Local\Temporary Projects\DebuggingSix02\obj\Debug\DebuggingSix02.csproj.CoreCompileInputs.cache
+C:\Users\AlienKCR3\AppData\Local\Temporary Projects\DebuggingSix02\obj\Debug\DebuggingSix02.exe
+C:\Users\AlienKCR3\AppData\Local\Temporary Projects\DebuggingSix02\obj\Debug\DebuggingSix02.pdb

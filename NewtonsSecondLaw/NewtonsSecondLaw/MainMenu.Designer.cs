@@ -31,9 +31,9 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.btnExplain = new System.Windows.Forms.Button();
-            this.btnGraph = new System.Windows.Forms.Button();
             this.btnRealLife = new System.Windows.Forms.Button();
+            this.btnGraph = new System.Windows.Forms.Button();
+            this.btnExplain = new System.Windows.Forms.Button();
             this.label3 = new System.Windows.Forms.Label();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
             this.btnAcc = new System.Windows.Forms.Button();
@@ -80,16 +80,17 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Tutorials";
             // 
-            // btnExplain
+            // btnRealLife
             // 
-            this.btnExplain.Font = new System.Drawing.Font("High Tower Text", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnExplain.ForeColor = System.Drawing.Color.SteelBlue;
-            this.btnExplain.Location = new System.Drawing.Point(6, 29);
-            this.btnExplain.Name = "btnExplain";
-            this.btnExplain.Size = new System.Drawing.Size(327, 45);
-            this.btnExplain.TabIndex = 0;
-            this.btnExplain.Text = "What is Newton\'s Second Law?";
-            this.btnExplain.UseVisualStyleBackColor = true;
+            this.btnRealLife.Font = new System.Drawing.Font("High Tower Text", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnRealLife.ForeColor = System.Drawing.Color.SteelBlue;
+            this.btnRealLife.Location = new System.Drawing.Point(6, 131);
+            this.btnRealLife.Name = "btnRealLife";
+            this.btnRealLife.Size = new System.Drawing.Size(327, 45);
+            this.btnRealLife.TabIndex = 2;
+            this.btnRealLife.Text = "Real Life Newton\'s Law Examples";
+            this.btnRealLife.UseVisualStyleBackColor = true;
+            this.btnRealLife.Click += new System.EventHandler(this.btnRealLife_Click);
             // 
             // btnGraph
             // 
@@ -101,17 +102,19 @@
             this.btnGraph.TabIndex = 1;
             this.btnGraph.Text = "Graphing Newton\'s Second Law";
             this.btnGraph.UseVisualStyleBackColor = true;
+            this.btnGraph.Click += new System.EventHandler(this.btnGraph_Click);
             // 
-            // btnRealLife
+            // btnExplain
             // 
-            this.btnRealLife.Font = new System.Drawing.Font("High Tower Text", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnRealLife.ForeColor = System.Drawing.Color.SteelBlue;
-            this.btnRealLife.Location = new System.Drawing.Point(6, 131);
-            this.btnRealLife.Name = "btnRealLife";
-            this.btnRealLife.Size = new System.Drawing.Size(327, 45);
-            this.btnRealLife.TabIndex = 2;
-            this.btnRealLife.Text = "Real Life Newton\'s Law Examples";
-            this.btnRealLife.UseVisualStyleBackColor = true;
+            this.btnExplain.Font = new System.Drawing.Font("High Tower Text", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnExplain.ForeColor = System.Drawing.Color.SteelBlue;
+            this.btnExplain.Location = new System.Drawing.Point(6, 29);
+            this.btnExplain.Name = "btnExplain";
+            this.btnExplain.Size = new System.Drawing.Size(327, 45);
+            this.btnExplain.TabIndex = 0;
+            this.btnExplain.Text = "What is Newton\'s Second Law?";
+            this.btnExplain.UseVisualStyleBackColor = true;
+            this.btnExplain.Click += new System.EventHandler(this.btnExplain_Click);
             // 
             // label3
             // 
